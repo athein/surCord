@@ -21,7 +21,7 @@
                                                            */
 
 /* Blue */
-@use 'fixations/additions/accents/blue.css';
+//@use 'fixations/additions/accents/blue.css';
 
 /* Red */
 //@use 'fixations/additions/accents/red.css'; 
@@ -48,7 +48,7 @@
 //@use 'fixations/additions/accents/fuoco.css';
 
 /* Tokyo Night Accent */
-//@use 'fixations/additions/accents/tokyo.css';
+@use 'fixations/additions/accents/tokyo.css';
 
 /* Thinkpad x30 Accent */
 //@use 'fixations/additions/accents/x30.css';
@@ -82,13 +82,13 @@
                                          \______/*/
 
 /* Regular Theme (surCord by Vozer) */
-@use 'fixations/additions/themes/default.css';
+//@use 'fixations/additions/themes/default.css';
 
 /* AMOLED Theme (Pitch Black by Vozer) */
 //@use 'fixations/additions/themes/amoled.css';
 
 /* AMOLED Theme + Contrast (Taken from AMOLED-Cord by LuckFire) */
-//@use 'fixations/additions/themes/amoledc.css';
+@use 'fixations/additions/themes/amoledc.css';
 
 /* Material Dark */
 //@use 'fixations/additions/themes/materialdark.css';
