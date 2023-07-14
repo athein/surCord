@@ -1,5 +1,5 @@
 .theme-dark {
-  --background-tertiary: #2f31364b;
+  --background-tertiary: #2f31364b; opacity: 0.5;
 }
 .theme-light {
   --background-tertiary: #ffffff1d;
