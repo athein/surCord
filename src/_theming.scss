@@ -21,7 +21,7 @@
                                                            */
 
 /* Blue */
-@use 'fixations/additions/accents/blue.css';
+//@use 'fixations/additions/accents/blue.css';
 
 /* Red */
 //@use 'fixations/additions/accents/red.css'; 
@@ -33,7 +33,7 @@
 //@use 'fixations/additions/accents/pink.css';
 
 /* Material Blue */
-//@use 'fixations/additions/accents/materialblue.css';
+@use 'fixations/additions/accents/materialblue.css';
 
 /* Hatsune */
 //@use 'fixations/additions/accents/hatsune.css';
@@ -82,7 +82,7 @@
                                          \______/*/
 
 /* Regular Theme (surCord by Vozer) */
-@use 'fixations/additions/themes/default.css';
+//@use 'fixations/additions/themes/default.css';
 
 /* AMOLED Theme (Pitch Black by Vozer) */
 //@use 'fixations/additions/themes/amoled.css';
@@ -103,7 +103,7 @@
 //@use 'fixations/additions/themes/fuoco.css';
 
 /* Tokyo Night Theme */
-//@use 'fixations/additions/themes/tokyonight.css';
+@use 'fixations/additions/themes/tokyonight.css';
 
 /* Thinkpad Theme */
 //@use 'fixations/additions/themes/thinkpad.css';
